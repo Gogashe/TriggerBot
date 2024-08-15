@@ -1,4 +1,4 @@
-﻿*.vsidx
-TriggerBot/bin/
+﻿TriggerBot/bin/
 TriggerBot/obj/
 .vs/
+TriggerBot/Resources/ApiKey.txt
