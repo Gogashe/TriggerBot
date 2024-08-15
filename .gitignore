@@ -1,0 +1,4 @@
+﻿*.vsidx
+TriggerBot/bin/
+TriggerBot/obj/
+.vs/
